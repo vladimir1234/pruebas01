@@ -1,0 +1,4 @@
+R1 Linea 1 ingresada 39 a;os
+R2 Linea 2 ingresada vivo peru
+R3 Linea 3 ingresada
+R4 Linea 4 ingresada
